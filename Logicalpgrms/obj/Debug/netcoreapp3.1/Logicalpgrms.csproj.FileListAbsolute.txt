@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.exe
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.deps.json
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.dll
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\bin\Debug\netcoreapp3.1\Logicalpgrms.pdb
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.dll
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.pdb
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.genruntimeconfig.cache
+C:\Users\Sahithi.P\source\repos\Logicalpgrms\Logicalpgrms\obj\Debug\netcoreapp3.1\Logicalpgrms.csproj.AssemblyReference.cache
